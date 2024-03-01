@@ -4,3 +4,6 @@ this exists entirely so i can backup my config files for klipper, should be iden
 
 
 printer.cfg is my base setup, everything else is just backups so i don't fuckin lose my mind.
+
+
+yes i recognize i'm using github repositories wrong. unfortunately i do not care.
