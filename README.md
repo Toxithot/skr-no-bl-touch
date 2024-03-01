@@ -7,3 +7,5 @@ printer.cfg is my base setup, everything else is just backups so i don't fuckin 
 
 
 yes i recognize i'm using github repositories wrong. unfortunately i do not care.
+
+even my naming schemes are bad. all you really need is printer.cfg anyway.
